@@ -1,9 +1,9 @@
 
-### Deployment
+### ⛳️ Deployment
 
 ***
 
-##### Link to where publishes this project: [https://maxim-saharov.com.ua/FilmFinder](https://maxim-saharov.com.ua/FilmFinder)
+#### Link to where publishes this project: [https://maxim-saharov.com.ua/FilmFinder](https://maxim-saharov.com.ua/FilmFinder)
 
 Link to where publish other projects: [https://maxim-saharov.com.ua](https://maxim-saharov.com.ua)
 
@@ -15,6 +15,7 @@ https://medium.com/@aforamitrai/how-to-deploy-react-app-on-shared-hosting-cpanel
 "homepage": "https://maxim-saharov.com.ua/FilmFinder",
 npm run build  // yarn build
 .htaccess также добавить на фттр в папку проекта
+//
 как что то добавить в маркдаун
 https://habr.com/ru/post/649363/
 )
