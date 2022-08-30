@@ -51,7 +51,7 @@ function App() {
       <div>
 
          <div className='title'>
-            <Title>Movies</Title>
+            <Title>Film finder</Title>
             <Button type='primary' onClick={onClick}>
                Refetch films
             </Button>
@@ -59,7 +59,7 @@ function App() {
 
          <div className='search'>
             <Input
-               placeholder='What are you looking for? For example "Dune"'
+               placeholder='What are you looking for? For example "Blade"'
                size='large'
                onChange={onChange}
             />
@@ -70,6 +70,29 @@ function App() {
                <PostItemFilm key={post.imdbID} post={post} />
 
             ))}
+         </div>
+
+         <div className='created-by'>
+            Film finder ©2022 Created by
+
+            <a
+               href={`https://maxim-saharov.com.ua`}
+               target='_blank' rel='noopener noreferrer'
+               className='pad-left-10px'
+            >
+               Maxim Saharov
+            </a>
+
+            <span className='pad-left-10px'>|</span>
+
+            <a
+               href={`https://github.com/maxim-saharov/FilmFinder`}
+               target='_blank' rel='noopener noreferrer'
+               className='pad-left-10px'
+            >
+               GitHub
+            </a>
+
          </div>
 
       </div>

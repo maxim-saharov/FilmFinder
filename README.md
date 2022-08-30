@@ -1,5 +1,5 @@
 
-#### Redux Toolkit, RTK Query
+### Deployment
 
 ***
 
@@ -18,9 +18,25 @@ npm run build  // yarn build
 )
 
 
-yarn install (or npm install)
+If you want deployment at your PC:
 
-yarn start (or npm start)
+* clone project
+* yarn install (or npm install)
+* input your apikey (http://omdbapi.com/apikey.aspx) in file PostService.ts
+* yarn start (or npm start)
+
+And you can see project on [http://localhost:3000](http://localhost:3000 )
+
+***
+
+##### Tech stack:
+
+* React JSX, CSS
+* Ant Design
+* Responsive Design
+* TypeScript, Redux Toolkit, RTK Query
+* OMDb API 
+* Git, GitHub
 
 
 ##### If you like this project don't forget to turn on a star for it)
