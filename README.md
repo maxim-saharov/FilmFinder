@@ -15,6 +15,8 @@ https://medium.com/@aforamitrai/how-to-deploy-react-app-on-shared-hosting-cpanel
 "homepage": "https://maxim-saharov.com.ua/FilmFinder",
 npm run build  // yarn build
 .htaccess также добавить на фттр в папку проекта
+как что то добавить в маркдаун
+https://habr.com/ru/post/649363/
 )
 
 
@@ -38,7 +40,6 @@ And you can see project on [http://localhost:3000](http://localhost:3000 )
 * OMDb API 
 * Git, GitHub
 
-
-##### If you like this project don't forget to turn on a star for it)
+#### If you like 👍 this project don't forget to turn on a star 💛 for it)
 
 
