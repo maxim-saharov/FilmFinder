@@ -41,7 +41,7 @@ npm run start
 * React, TypeScript
 * Ant Design, CSS
 * Responsive Design
-* TypeScript, Redux Toolkit, RTK Query
+* Redux Toolkit, RTK Query
 * OMDb API 
 * Git, GitHub
 
